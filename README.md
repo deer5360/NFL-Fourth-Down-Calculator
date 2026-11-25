@@ -94,4 +94,4 @@ The NFL play-by-play data used in this project comes from [nflverse](https://git
 
 ## Application Screenshot
 
-![Fourth Down Calculator Result](screenshots/result.png)
+![Fourth Down Calculator Result](screenshots/resdid ults.png)

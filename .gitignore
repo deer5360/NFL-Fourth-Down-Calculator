@@ -1,0 +1,16 @@
+# IntelliJ files
+.idea/
+*.iml
+
+# Compiled Java files
+*.class
+out/
+build/
+target/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# NFL dataset
+play_by_play_2025.csv
